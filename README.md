@@ -10,7 +10,7 @@
 
 How To Play
 
-The game starts automatically upon page load. Click the cards to reveal them. The goal is to reveal cards two at a time to match the pairs in the least amount of time. The game ends when all pairs are revealed.
+The timer starts after the first click. Click the cards to reveal them. The goal is to reveal cards two at a time to match the pairs in the least amount of time. The game ends when all pairs are revealed.
 
 Scoring
 
